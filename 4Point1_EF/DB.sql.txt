@@ -55,5 +55,3 @@ VALUES
 (14, 'Defender', 'Black'), -- Land Rover
 (14, 'Range Rover', 'White'), -- Land Rover
 (15, 'R10', 'Pink'); -- Skoda
-
-
